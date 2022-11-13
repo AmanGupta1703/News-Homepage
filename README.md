@@ -27,12 +27,13 @@ Users should be able to:
 ### Screenshot
 
 ![](Output/desktop-output.png)
+![](Output/mobile-output.png)
 
 
 ### Links
 
-- Solution URL: [Code Link](https://github.com/AmanGupta1703/News-Homepage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AmanGupta1703/News-Homepage]
+- Live Site URL: [https://amangupta1703.github.io/News-Homepage/]
 
 ## My process
 
@@ -45,7 +46,9 @@ Users should be able to:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+=> Grid
+=> Responsive Layout
+=> Flex
 
 ### Useful resources
 
@@ -55,5 +58,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [News HomePage](https://www.your-site.com)
+- Website - [News HomePage](https://amangupta1703.github.io/News-Homepage/)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
